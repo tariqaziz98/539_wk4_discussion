@@ -89,12 +89,12 @@ footer {
     margin-left: 24px;
     padding-top: 24px;
     padding-left: 16px;
-    border-left: 4px solid #FFFFFF;
-    border-bottom: 4px solid #FFFFFF;
+    border-left: 4px solid #00ff11;
+    border-bottom: 4px solid #00ff11;
 }
 
 .highlight {
-    background-color: #FFFF99;
+    background-color: #00ff11;
     margin-right: 20px;
     border-radius: 8px;
 }
